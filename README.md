@@ -1,3 +1,5 @@
+- I need to change this plugin so it doesn't have a timer, it needs to work purely on building privelage. Please don't use it in it's current state.
+
 # EntCleanup
 
 **EntCleanup** is a Rust plugin designed to clean up old entities that aren't upkept to decrease server load and increase FPS. It features configurable cleanup intervals, entity age limits, and a command for manual cleanup.
